@@ -1,0 +1,7 @@
+body{
+  background-color: rgb(230, 229, 229);
+}
+html,body{
+  width: 100%;
+  overflow-x: hidden;
+}
