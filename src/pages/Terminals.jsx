@@ -42,7 +42,7 @@ export default function Terminals() {
         <div className='flex  flex-wrap md:flex-wrap    gap-5 md:px-24 px-3 py-16'>
 
 
-          <div className='w-[400px]  bg-white flex flex-col gap-3 py-3 px-5 h-[200px]'>
+          <div className='md:w-[48%] lg:w-[400px] xl:w-[32%]  bg-white flex flex-col gap-3 py-3 px-5 h-[200px]'>
             <h1>AJAH, LAGOS</h1>
             <p>KM 22, Epe - Expressway, Abraham Adesanya Est. Junction, Ajah, Lagos</p>
             <div className='flex gap-1 items-center'>
@@ -51,7 +51,7 @@ export default function Terminals() {
             </div>
           </div>
 
-          <div className='w-[400px]  bg-white flex flex-col gap-3 py-3 px-5 h-[200px]'>
+          <div className='md:w-[48%] lg:w-[400px] xl:w-[32%]  bg-white flex flex-col gap-3 py-3 px-5 h-[200px]'>
             <h1>AJAH, LAGOS</h1>
             <p>KM 22, Epe - Expressway, Abraham Adesanya Est. Junction, Ajah, Lagos</p>
             <div className='flex items-center gap-1'>
@@ -60,7 +60,7 @@ export default function Terminals() {
             </div>
           </div>
 
-          <div className='w-[400px]   bg-white flex flex-col gap-3 py-3 px-5 h-[200px]'>
+          <div className='md:w-[48%] lg:w-[400px] xl:w-[32%]   bg-white flex flex-col gap-3 py-3 px-5 h-[200px]'>
             <h1>AJAH, LAGOS</h1>
             <p>KM 22, Epe - Expressway, Abraham Adesanya Est. Junction, Ajah, Lagos</p>
             <div className='flex items-center gap-1'>
@@ -69,7 +69,7 @@ export default function Terminals() {
             </div>
           </div>
 
-          <div className='w-[400px]  bg-white flex flex-col gap-3 py-3 px-5 h-[200px]'>
+          <div className='md:w-[48%] lg:w-[400px] xl:w-[32%]  bg-white flex flex-col gap-3 py-3 px-5 h-[200px]'>
             <h1>AJAH, LAGOS</h1>
             <p>KM 22, Epe - Expressway, Abraham Adesanya Est. Junction, Ajah, Lagos</p>
             <div className='flex items-center gap-1'>
@@ -78,7 +78,7 @@ export default function Terminals() {
             </div>
           </div>
 
-          <div className='w-[400px] bg-white flex flex-col gap-3 py-3 px-5 h-[200px]'>
+          <div className='md:w-[48%] lg:w-[400px] xl:w-[32%] bg-white flex flex-col gap-3 py-3 px-5 h-[200px]'>
             <h1>AJAH, LAGOS</h1>
             <p>KM 22, Epe - Expressway, Abraham Adesanya Est. Junction, Ajah, Lagos</p>
             <div className='flex items-center gap-1'>
@@ -87,7 +87,7 @@ export default function Terminals() {
             </div>
           </div>
 
-          <div className='w-[400px] bg-white flex flex-col gap-3 py-3 px-5 h-[200px]'>
+          <div className='md:w-[48%] lg:w-[400px] xl:w-[32%] bg-white flex flex-col gap-3 py-3 px-5 h-[200px]'>
             <h1>AJAH, LAGOS</h1>
             <p>KM 22, Epe - Expressway, Abraham Adesanya Est. Junction, Ajah, Lagos</p>
             <div className='flex items-center gap-1'>
@@ -96,7 +96,7 @@ export default function Terminals() {
             </div>
           </div>
 
-          <div className='w-[400px] bg-white flex flex-col gap-3 py-3 px-5 h-[200px]'>
+          <div className='md:w-[48%] lg:w-[400px] xl:w-[32%] bg-white flex flex-col gap-3 py-3 px-5 h-[200px]'>
             <h1>AJAH, LAGOS</h1>
             <p>KM 22, Epe - Expressway, Abraham Adesanya Est. Junction, Ajah, Lagos</p>
             <div className='flex items-center gap-1'>
@@ -105,7 +105,7 @@ export default function Terminals() {
             </div>
           </div>
 
-          <div className='w-[400px] bg-white flex flex-col gap-3 py-3 px-5 h-[200px]'>
+          <div className='md:w-[48%] lg:w-[400px] xl:w-[32%] bg-white flex flex-col gap-3 py-3 px-5 h-[200px]'>
             <h1>AJAH, LAGOS</h1>
             <p>KM 22, Epe - Expressway, Abraham Adesanya Est. Junction, Ajah, Lagos</p>
             <div className='flex items-center gap-1'>
@@ -114,17 +114,7 @@ export default function Terminals() {
             </div>
           </div>
 
-          <div className='w-[400px] bg-white flex flex-col gap-3 py-3 px-5 h-[200px]'>
-            <h1>AJAH, LAGOS</h1>
-            <p>KM 22, Epe - Expressway, Abraham Adesanya Est. Junction, Ajah, Lagos</p>
-            <div className='flex items-center gap-1'>
-            <IoIosCall className='text-blue-500 h-16 w-5' />
-            <h1>08139996343</h1>
-            </div>
-          </div>
-
-
-          <div className='w-[400px] bg-white flex flex-col gap-3 py-3 px-5 h-[200px]'>
+          <div className='md:w-[48%] lg:w-[400px] xl:w-[32%] bg-white flex flex-col gap-3 py-3 px-5 h-[200px]'>
             <h1>AJAH, LAGOS</h1>
             <p>KM 22, Epe - Expressway, Abraham Adesanya Est. Junction, Ajah, Lagos</p>
             <div className='flex items-center gap-1'>
@@ -134,7 +124,7 @@ export default function Terminals() {
           </div>
 
 
-          <div className='w-[400px] bg-white flex flex-col gap-3 py-3 px-5 h-[200px]'>
+          <div className='md:w-[48%] lg:w-[400px] xl:w-[32%] bg-white flex flex-col gap-3 py-3 px-5 h-[200px]'>
             <h1>AJAH, LAGOS</h1>
             <p>KM 22, Epe - Expressway, Abraham Adesanya Est. Junction, Ajah, Lagos</p>
             <div className='flex items-center gap-1'>
@@ -144,7 +134,7 @@ export default function Terminals() {
           </div>
 
 
-          <div className='w-[400px] bg-white flex flex-col gap-3 py-3 px-5 h-[200px]'>
+          <div className='md:w-[48%] lg:w-[400px] xl:w-[32%] bg-white flex flex-col gap-3 py-3 px-5 h-[200px]'>
             <h1>AJAH, LAGOS</h1>
             <p>KM 22, Epe - Expressway, Abraham Adesanya Est. Junction, Ajah, Lagos</p>
             <div className='flex items-center gap-1'>
@@ -154,7 +144,7 @@ export default function Terminals() {
           </div>
 
 
-          <div className='w-[400px] bg-white flex flex-col gap-3 py-3 px-5 h-[200px]'>
+          <div className='md:w-[48%] lg:w-[400px] xl:w-[32%] bg-white flex flex-col gap-3 py-3 px-5 h-[200px]'>
             <h1>AJAH, LAGOS</h1>
             <p>KM 22, Epe - Expressway, Abraham Adesanya Est. Junction, Ajah, Lagos</p>
             <div className='flex items-center gap-1'>
@@ -164,7 +154,7 @@ export default function Terminals() {
           </div>
 
 
-          <div className='w-[400px] bg-white flex flex-col gap-3 py-3 px-5 h-[200px]'>
+          <div className='md:w-[48%] lg:w-[400px] xl:w-[32%] bg-white flex flex-col gap-3 py-3 px-5 h-[200px]'>
             <h1>AJAH, LAGOS</h1>
             <p>KM 22, Epe - Expressway, Abraham Adesanya Est. Junction, Ajah, Lagos</p>
             <div className='flex items-center gap-1'>
@@ -174,16 +164,7 @@ export default function Terminals() {
           </div>
 
 
-          <div className='w-[400px] bg-white flex flex-col gap-3 py-3 px-5 h-[200px]'>
-            <h1>AJAH, LAGOS</h1>
-            <p>KM 22, Epe - Expressway, Abraham Adesanya Est. Junction, Ajah, Lagos</p>
-            <div className='flex items-center gap-1'>
-            <IoIosCall className='text-blue-500 h-16 w-5' />
-            <h1>08139996343</h1>
-            </div>
-          </div>
-
-          <div className='w-[400px] bg-white flex flex-col gap-3 py-3 px-5 h-[200px]'>
+          <div className='md:w-[48%] lg:w-[400px] xl:w-[32%] bg-white flex flex-col gap-3 py-3 px-5 h-[200px]'>
             <h1>AJAH, LAGOS</h1>
             <p>KM 22, Epe - Expressway, Abraham Adesanya Est. Junction, Ajah, Lagos</p>
             <div className='flex items-center gap-1'>
@@ -193,7 +174,26 @@ export default function Terminals() {
           </div>
 
 
-          <div className='w-[400px] bg-white flex flex-col gap-3 py-3 px-5 h-[200px]'>
+          <div className='md:w-[48%] lg:w-[400px] xl:w-[32%] bg-white flex flex-col gap-3 py-3 px-5 h-[200px]'>
+            <h1>AJAH, LAGOS</h1>
+            <p>KM 22, Epe - Expressway, Abraham Adesanya Est. Junction, Ajah, Lagos</p>
+            <div className='flex items-center gap-1'>
+            <IoIosCall className='text-blue-500 h-16 w-5' />
+            <h1>08139996343</h1>
+            </div>
+          </div>
+
+          <div className='md:w-[48%] lg:w-[400px] xl:w-[32%] bg-white flex flex-col gap-3 py-3 px-5 h-[200px]'>
+            <h1>AJAH, LAGOS</h1>
+            <p>KM 22, Epe - Expressway, Abraham Adesanya Est. Junction, Ajah, Lagos</p>
+            <div className='flex items-center gap-1'>
+            <IoIosCall className='text-blue-500 h-16 w-5' />
+            <h1>08139996343</h1>
+            </div>
+          </div>
+
+
+          <div className='md:w-[48%] lg:w-[400px] xl:w-[32%] bg-white flex flex-col gap-3 py-3 px-5 h-[200px]'>
             <h1>AJAH, LAGOS</h1>
             <p>KM 22, Epe - Expressway, Abraham Adesanya Est. Junction, Ajah, Lagos</p>
             <div className='flex items-center gap-1'>
@@ -202,7 +202,7 @@ export default function Terminals() {
             </div>
           </div>
 
-          <div className='w-[400px] bg-white flex flex-col gap-3 py-3 px-5 h-[200px]'>
+          <div className='md:w-[48%] lg:w-[400px] xl:w-[32%] bg-white flex flex-col gap-3 py-3 px-5 h-[200px]'>
             <h1>AJAH, LAGOS</h1>
             <p>KM 22, Epe - Expressway, Abraham Adesanya Est. Junction, Ajah, Lagos</p>
             <div className='flex items-center gap-1'>
@@ -212,7 +212,7 @@ export default function Terminals() {
           </div>
 
 
-          <div className='w-[400px] bg-white flex flex-col gap-3 py-3 px-5 h-[200px]'>
+          <div className='md:w-[48%] lg:w-[400px] xl:w-[32%] bg-white flex flex-col gap-3 py-3 px-5 h-[200px]'>
             <h1>AJAH, LAGOS</h1>
             <p>KM 22, Epe - Expressway, Abraham Adesanya Est. Junction, Ajah, Lagos</p>
             <div className='flex items-center gap-1'>
@@ -221,26 +221,7 @@ export default function Terminals() {
             </div>
           </div>
 
-          <div className='w-[400px] bg-white flex flex-col gap-3 py-3 px-5 h-[200px]'>
-            <h1>AJAH, LAGOS</h1>
-            <p>KM 22, Epe - Expressway, Abraham Adesanya Est. Junction, Ajah, Lagos</p>
-            <div className='flex items-center gap-1'>
-            <IoIosCall className='text-blue-500 h-16 w-5' />
-            <h1>08139996343</h1>
-            </div>
-          </div>
-
-
-          <div className='w-[400px] bg-white flex flex-col gap-3 py-3 px-5 h-[200px]'>
-            <h1>AJAH, LAGOS</h1>
-            <p>KM 22, Epe - Expressway, Abraham Adesanya Est. Junction, Ajah, Lagos</p>
-            <div className='flex items-center gap-1'>
-            <IoIosCall className='text-blue-500 h-16 w-5' />
-            <h1>08139996343</h1>
-            </div>
-          </div>
-
-          <div className='w-[400px] bg-white flex flex-col gap-3 py-3 px-5 h-[200px]'>
+          <div className='md:w-[48%] lg:w-[400px] xl:w-[32%] bg-white flex flex-col gap-3 py-3 px-5 h-[200px]'>
             <h1>AJAH, LAGOS</h1>
             <p>KM 22, Epe - Expressway, Abraham Adesanya Est. Junction, Ajah, Lagos</p>
             <div className='flex items-center gap-1'>
@@ -250,7 +231,7 @@ export default function Terminals() {
           </div>
 
 
-          <div className='w-[400px] bg-white flex flex-col gap-3 py-3 px-5 h-[200px]'>
+          <div className='md:w-[48%] lg:w-[400px] xl:w-[32%] bg-white flex flex-col gap-3 py-3 px-5 h-[200px]'>
             <h1>AJAH, LAGOS</h1>
             <p>KM 22, Epe - Expressway, Abraham Adesanya Est. Junction, Ajah, Lagos</p>
             <div className='flex items-center gap-1'>
@@ -259,7 +240,7 @@ export default function Terminals() {
             </div>
           </div>
 
-          <div className='w-[400px] bg-white flex flex-col gap-3 py-3 px-5 h-[200px]'>
+          <div className='md:w-[48%] lg:w-[400px] xl:w-[32%] bg-white flex flex-col gap-3 py-3 px-5 h-[200px]'>
             <h1>AJAH, LAGOS</h1>
             <p>KM 22, Epe - Expressway, Abraham Adesanya Est. Junction, Ajah, Lagos</p>
             <div className='flex items-center gap-1'>
@@ -269,7 +250,7 @@ export default function Terminals() {
           </div>
 
 
-          <div className='w-[400px] bg-white flex flex-col gap-3 py-3 px-5 h-[200px]'>
+          <div className='md:w-[48%] lg:w-[400px] xl:w-[32%] bg-white flex flex-col gap-3 py-3 px-5 h-[200px]'>
             <h1>AJAH, LAGOS</h1>
             <p>KM 22, Epe - Expressway, Abraham Adesanya Est. Junction, Ajah, Lagos</p>
             <div className='flex items-center gap-1'>
@@ -278,7 +259,26 @@ export default function Terminals() {
             </div>
           </div>
 
-          <div className='w-[400px] bg-white flex flex-col gap-3 py-3 px-5 h-[200px]'>
+          <div className='md:w-[48%] lg:w-[400px] xl:w-[32%] bg-white flex flex-col gap-3 py-3 px-5 h-[200px]'>
+            <h1>AJAH, LAGOS</h1>
+            <p>KM 22, Epe - Expressway, Abraham Adesanya Est. Junction, Ajah, Lagos</p>
+            <div className='flex items-center gap-1'>
+            <IoIosCall className='text-blue-500 h-16 w-5' />
+            <h1>08139996343</h1>
+            </div>
+          </div>
+
+
+          <div className='md:w-[48%] lg:w-[400px] xl:w-[32%] bg-white flex flex-col gap-3 py-3 px-5 h-[200px]'>
+            <h1>AJAH, LAGOS</h1>
+            <p>KM 22, Epe - Expressway, Abraham Adesanya Est. Junction, Ajah, Lagos</p>
+            <div className='flex items-center gap-1'>
+            <IoIosCall className='text-blue-500 h-16 w-5' />
+            <h1>08139996343</h1>
+            </div>
+          </div>
+
+          <div className='md:w-[48%] lg:w-[400px] xl:w-[32%] bg-white flex flex-col gap-3 py-3 px-5 h-[200px]'>
             <h1>AJAH, LAGOS</h1>
             <p>KM 22, Epe - Expressway, Abraham Adesanya Est. Junction, Ajah, Lagos</p>
             <div className='flex items-center gap-1'>
@@ -288,7 +288,7 @@ export default function Terminals() {
           </div>
 
 
-          <div className='w-[400px] bg-white flex flex-col gap-3 py-3 px-5 h-[200px]'>
+          <div className='md:w-[48%] lg:w-[400px] xl:w-[32%] bg-white flex flex-col gap-3 py-3 px-5 h-[200px]'>
             <h1>AJAH, LAGOS</h1>
             <p>KM 22, Epe - Expressway, Abraham Adesanya Est. Junction, Ajah, Lagos</p>
             <div className='flex items-center gap-1'>
@@ -296,17 +296,7 @@ export default function Terminals() {
             <h1>08139996343</h1>
             </div>
           </div>
-          <div className='w-[400px] bg-white flex flex-col gap-3 py-3 px-5 h-[200px]'>
-            <h1>AJAH, LAGOS</h1>
-            <p>KM 22, Epe - Expressway, Abraham Adesanya Est. Junction, Ajah, Lagos</p>
-            <div className='flex items-center gap-1'>
-            <IoIosCall className='text-blue-500 h-16 w-5' />
-            <h1>08139996343</h1>
-            </div>
-          </div>
-
-
-          <div className='w-[400px] bg-white flex flex-col gap-3 py-3 px-5 h-[200px]'>
+          <div className='md:w-[48%] lg:w-[400px] xl:w-[32%] bg-white flex flex-col gap-3 py-3 px-5 h-[200px]'>
             <h1>AJAH, LAGOS</h1>
             <p>KM 22, Epe - Expressway, Abraham Adesanya Est. Junction, Ajah, Lagos</p>
             <div className='flex items-center gap-1'>
@@ -315,7 +305,17 @@ export default function Terminals() {
             </div>
           </div>
 
-          <div className='w-[400px] bg-white flex flex-col gap-3 py-3 px-5 h-[200px]'>
+
+          <div className='md:w-[48%] lg:w-[400px] xl:w-[32%] bg-white flex flex-col gap-3 py-3 px-5 h-[200px]'>
+            <h1>AJAH, LAGOS</h1>
+            <p>KM 22, Epe - Expressway, Abraham Adesanya Est. Junction, Ajah, Lagos</p>
+            <div className='flex items-center gap-1'>
+            <IoIosCall className='text-blue-500 h-16 w-5' />
+            <h1>08139996343</h1>
+            </div>
+          </div>
+
+          <div className='md:w-[48%] lg:w-[400px] xl:w-[32%] bg-white flex flex-col gap-3 py-3 px-5 h-[200px]'>
             <h1>AJAH, LAGOS</h1>
             <p>KM 22, Epe - Expressway, Abraham Adesanya Est. Junction, Ajah, Lagos</p>
             <div className='flex items-center gap-1'>
